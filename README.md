@@ -39,18 +39,17 @@
  
 
 
-It's a simple app, only to study performSegue
+It's a simple app, only to study SwiftUI
 
 
 <!-- GETTING STARTED -->
 ## Getting Started
 
-Open the file perfilProfile.xcodeproj 
+Open the file Hike.xcodeproj
 
 ### Prerequisites
 
 * Xcode 12.4
-* Use iPhone 12 mini as simulator 
 
 <!-- CONTACT -->
 ## Contact
