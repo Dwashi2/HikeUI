@@ -6,7 +6,7 @@
 
   <h3 align="center">SwiftUI Pratice</h3>
   <p align="center">
-    Swift Project 
+    SwiftUI Project 
   </p>
 </p>
 
