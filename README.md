@@ -32,8 +32,8 @@
 ## About The Project
 <p float="left">
   <img src="https://raw.githubusercontent.com/Dwashi2/HikeUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-10-28%20at%2014.33.32.png" width="248">
-  <img src="[https://github.com/Dwashi2/swift-perfil/blob/main/2.png](https://raw.githubusercontent.com/Dwashi2/HikeUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-10-28%20at%2014.33.36.png)" width="248">
-  <img src="[https://github.com/Dwashi2/swift-perfil/blob/main/3.png](https://raw.githubusercontent.com/Dwashi2/HikeUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-10-28%20at%2014.33.40.png)" width="248">
+  <img src="https://github.com/Dwashi2/swift-perfil/blob/main/2.png](https://raw.githubusercontent.com/Dwashi2/HikeUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-10-28%20at%2014.33.36.png" width="248">
+  <img src="https://github.com/Dwashi2/swift-perfil/blob/main/3.png](https://raw.githubusercontent.com/Dwashi2/HikeUI/main/Simulator%20Screenshot%20-%20iPhone%2015%20-%202023-10-28%20at%2014.33.40.png" width="248">
 </p>
  
  
