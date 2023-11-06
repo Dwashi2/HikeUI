@@ -53,3 +53,5 @@ Open the file Hike.xcodeproj
 
 <!-- CONTACT -->
 ## Contact
+
+Danielvertigo@hotmail.com
